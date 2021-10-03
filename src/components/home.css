@@ -1,0 +1,28 @@
+.home-logout-btn{
+
+    position: fixed;
+    bottom: 4rem;
+    right: 2rem;
+    height: 5rem;
+    width: 5rem;
+    border: none;
+    border-radius: 50%;
+    font-family: 'Nunito', sans-serif;
+
+
+}
+.video-container{
+    height: 100vh;
+    width: 100vw;
+    scroll-snap-type: y mandatory;
+    background-color: black;
+    overflow-y: scroll;
+    font-family: 'Nunito', sans-serif;
+}
+input[type="file"]{
+    width: 6rem;
+    outline: none;
+    position: fixed;
+    bottom: 10rem;
+    right: 2rem;
+}
